@@ -32,7 +32,7 @@ Excel配置设定说明
 
 【使用流程】
 
-1.运行 Publish文件夹下的 ExcelToJsonCs.exe
+1.运行后根据提示操作.
 2.输入转换后的JSON要放置的路径（比如一个空文件夹，随后会生成 ClientConfigs 和 ServerConfigs 会覆盖原有文件）
 3.输入Excel文件所在的路径
 4.回车开始运行，运行结束后会提示已完成输出
