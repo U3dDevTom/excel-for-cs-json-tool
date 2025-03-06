@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelToJsonCs", "ExcelToJsonCs\ExcelToJsonCs.csproj", "{34825F1C-29B3-4DE9-B518-11A92634DA56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdParty", "ThirdParty\ThirdParty.csproj", "{130535D7-1B11-4829-B36C-A537C9BD225B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34825F1C-29B3-4DE9-B518-11A92634DA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34825F1C-29B3-4DE9-B518-11A92634DA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34825F1C-29B3-4DE9-B518-11A92634DA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34825F1C-29B3-4DE9-B518-11A92634DA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130535D7-1B11-4829-B36C-A537C9BD225B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130535D7-1B11-4829-B36C-A537C9BD225B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130535D7-1B11-4829-B36C-A537C9BD225B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130535D7-1B11-4829-B36C-A537C9BD225B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
